@@ -1,0 +1,25 @@
+services:
+  redis-gears:
+    image: redislabs/redisgears:latest
+    container_name: redis-gears
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+      - ./registra-gear-interno.py:/tmp/registra-gear-interno.py
+
+  postgres:
+    image: postgres:16
+    container_name: postgres
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: senhaForte2025
+      POSTGRES_DB: dw
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  redis_data:
+  postgres_data:

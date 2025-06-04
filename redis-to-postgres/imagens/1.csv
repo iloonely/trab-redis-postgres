@@ -1,0 +1,5 @@
+"question_id","question_text","alternativa_escolhida","total_votos","percentual_votos"
+1,Qual é a resposta de tudo?,c,8,100.00
+2,Qual é a resposta de nada?,a,4,50.00
+2,Qual é a resposta de nada?,d,4,50.00
+3,Qual é o banco em memória mais difundido no mercado?,d,8,100.00

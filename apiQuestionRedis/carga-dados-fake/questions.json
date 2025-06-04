@@ -1,0 +1,35 @@
+[
+  {
+    "question_text": "Qual é a resposta de nada?",
+    "alternativa_a": "1",
+    "alternativa_b": "23",
+    "alternativa_c": "42",
+    "alternativa_d": "11",
+    "alternativa_correta": "d",
+    "dificuldade": "fácil",
+    "assunto": "geek",
+    "question_id": 2
+  },
+  {
+    "question_text": "Qual é a resposta de tudo?",
+    "alternativa_a": "1",
+    "alternativa_b": "23",
+    "alternativa_c": "42",
+    "alternativa_d": "11",
+    "alternativa_correta": "c",
+    "dificuldade": "fácil",
+    "assunto": "geek",
+    "question_id": 1
+  },
+  {
+    "question_text": "Qual é o banco em memória mais difundido no mercado?",
+    "alternativa_a": "apache ignite",
+    "alternativa_b": "refis",
+    "alternativa_c": "valkey",
+    "alternativa_d": "memcache",
+    "alternativa_correta": "b",
+    "dificuldade": "fácil",
+    "assunto": "tech",
+    "question_id": 3
+  }
+]

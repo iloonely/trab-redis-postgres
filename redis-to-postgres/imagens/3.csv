@@ -1,0 +1,4 @@
+"question_id","question_text","dificuldade","assunto","total_respostas","usuarios_responderam","percentual_participacao"
+1,Qual é a resposta de tudo?,fácil,geek,8,1,33.33
+2,Qual é a resposta de nada?,fácil,geek,8,1,33.33
+3,Qual é o banco em memória mais difundido no mercado?,fácil,tech,8,1,33.33

@@ -1,0 +1,44 @@
+[
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "c",
+    "datahora": "19/05/2025 09:47",
+    "usuario": "dlemes",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "d",
+    "datahora": "19/05/2025 09:47",
+    "usuario": "jSouza",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "d",
+    "datahora": "19/05/2025 09:47",
+    "usuario": "Ygor",
+    "nro_tentativa": 1
+  },
+  {
+    "question_id": 1,
+    "alternativa_escolhida": "c",
+    "datahora": "19/05/2025 09:47",
+    "usuario": "dlemes",
+    "nro_tentativa": 2
+  },
+  {
+    "question_id": 2,
+    "alternativa_escolhida": "a",
+    "datahora": "19/05/2025 09:47",
+    "usuario": "jSouza",
+    "nro_tentativa": 2
+  },
+  {
+    "question_id": 3,
+    "alternativa_escolhida": "d",
+    "datahora": "19/05/2025 09:47",
+    "usuario": "Ygor",
+    "nro_tentativa": 2
+  }
+]
